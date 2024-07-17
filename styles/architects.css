@@ -190,7 +190,7 @@ margin-top: 130px;
   .footer{
     background-color: rgba(255, 244, 231, 1);
     margin: 130px 0px 216px 0px;
-    text-align: center;
+    justify-content: center;
     padding: 40px 410px;
     color: rgba(66, 66, 66, 1);
   }
